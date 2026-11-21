@@ -75,7 +75,8 @@ com.naveen.expensetracker
 
 ## 📸 Screenshots
 
-<img width="1376" height="768" alt="Lumo generated 2026-11-18 20 53" src="https://github.com/user-attachments/assets/8465f061-9417-4fb6-a8bd-5ac2f3d768c1" />
+<img width="1376" height="768" alt="Lumo generated 2026-11-18 21 29" src="https://github.com/user-attachments/assets/2ce04234-617e-4be6-b448-131e4a7d27e8" />
+
 
 
 ## 💡 How It Works
