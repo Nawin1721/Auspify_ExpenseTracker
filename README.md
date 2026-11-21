@@ -99,7 +99,7 @@ The main objective of this project is to develop a simple and effective Android 
 **Naveen Kadali 💜**
 
 - GitHub: [@Nawin1721](https://github.com/Nawin1721)
-- Project: [Expense Tracker](https://github.com/Nawin1721/ExpenseTracker)
+- Project: [Expense Tracker](https://github.com/Nawin1721/Auspify_ExpenseTracker)
 
 ## 📄 License
 
